@@ -8,7 +8,7 @@ A clean and simple Flutter-based To-Do List app to help users manage daily tasks
 
 | Home Screen | Task Added |
 |-------------|------------|
-| ![Home Screen](https://github.com/Balahariharan333/TodoApp/blob/master/TodoApp%20Screenshots/Screenshot%202025-06-12%20061615.png?raw=true) | ![Task Added](screenshots/translator_output.png) |
+| ![Home Screen](https://github.com/Balahariharan333/TodoApp/blob/master/TodoApp%20Screenshots/Screenshot%202025-06-12%20061615.png?raw=true) | ![Task Added](https://github.com/Balahariharan333/TodoApp/blob/master/TodoApp%20Screenshots/Screenshot%202025-06-12%20061817.png?raw=true)|
 
 
 ---
